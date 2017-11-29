@@ -1,6 +1,3 @@
-library(distr) #define distribution function (also doesn't seem to be using)
-library(plyr) #count function
-
 ############### Define parameters ########################
 
 #number of simulations
